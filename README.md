@@ -7,7 +7,7 @@ NetworkX
 
 EoN (Epidemics on Networks)
 
-## Node Removal Analysis- Obejective
+## Node Removal Analysis- Objective
 Major significance on node removal analysis is to detect most influential nodes (airports) in the network which can be removed (locked down) to stop the spread of pandemic effectively. The analysis shows that removing the most Bridging Central nodes and the most eigen vector central nodes can curb the epidemic spread at an early stage. 
 
 ## Dataset
