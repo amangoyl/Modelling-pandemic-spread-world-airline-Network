@@ -15,3 +15,11 @@ The dataset used are two interdependent sets of data available at openflights.co
 
 
 ![image](https://user-images.githubusercontent.com/102705658/230988003-be04beb5-e665-49fe-80e3-5d61622ac285.png)
+
+
+Following image provides a broader picture on time taken by each country to get infected by aggregating airports in each country. The lighter the country is in the map, faster it got infected
+
+![image](https://user-images.githubusercontent.com/102705658/230990494-3d436af8-5c47-4790-9d4b-c20f35ef66f8.png)
+
+
+
